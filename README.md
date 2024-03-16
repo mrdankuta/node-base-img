@@ -4,7 +4,7 @@
 
 The goal is to create a base Docker image that can serve as a starting point for React and Node.js application development within the organization, including network tools for troubleshooting.
 
-## DevOps Engineers' Dockerfile:
+## DevOps Engineers' Dockerfile
 
 ```Dockerfile
 FROM node:21-bullseye-slim AS baseImage
